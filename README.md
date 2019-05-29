@@ -9,7 +9,7 @@ To get a fully working neural network pipeline set-up, simply do the following.
 ### Using conda
 
 ```
-git clone <repo>
+git clone git@github.com:joeltok/pytorch-starter-pack.git
 cd ./pytorch_starter_pack
 conda activate
 conda install pytorch torchvision -c pytorch
@@ -18,7 +18,7 @@ conda install pytorch torchvision -c pytorch
 ### Using pip3
 
 ```
-git clone <repo>
+git clone git@github.com:joeltok/pytorch-starter-pack.git
 cd ./pytorch_starter_pack
 python3 -m venv ./
 pip3 install torch torchvision
