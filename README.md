@@ -1,6 +1,6 @@
 # PyTorch Starter Pack
 
-A ready to use starter pack for a PyTorch based fully-connected neural network. Useful for beginners, or advanced users that just want something that works out-of-the-box to tweak.
+A complete and simple pytorch neural network example. Useful for beginners, or advanced users that just want something that works out-of-the-box to tweak.
 
 ## Installation
 
